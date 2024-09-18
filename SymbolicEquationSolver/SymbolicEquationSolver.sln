@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolicEquationSolver", "SymbolicEquationSolver.csproj", "{69A93502-7C1C-4C32-B331-F070F91A412C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{74ECCBD0-5F30-49ED-B4D9-21449A065824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A93502-7C1C-4C32-B331-F070F91A412C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A93502-7C1C-4C32-B331-F070F91A412C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A93502-7C1C-4C32-B331-F070F91A412C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A93502-7C1C-4C32-B331-F070F91A412C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74ECCBD0-5F30-49ED-B4D9-21449A065824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ECCBD0-5F30-49ED-B4D9-21449A065824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ECCBD0-5F30-49ED-B4D9-21449A065824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ECCBD0-5F30-49ED-B4D9-21449A065824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93ADB7F-7889-4197-A06E-27DB75493492}
+	EndGlobalSection
+EndGlobal
